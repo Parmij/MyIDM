@@ -1,0 +1,9 @@
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\bin\Debug\PP_HW2_IDM2.exe.config
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\bin\Debug\PP_HW2_IDM2.exe
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\bin\Debug\PP_HW2_IDM2.pdb
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.Form1.resources
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.Properties.Resources.resources
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.csproj.GenerateResource.Cache
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.exe
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.pdb
+E:\YPU\2013-2\Projects\PP_HW2_IDM2\PP_HW2_IDM2\obj\Debug\PP_HW2_IDM2.csprojResolveAssemblyReference.cache
